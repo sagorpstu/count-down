@@ -12,6 +12,10 @@ h6 {
   font-family: 'Oswald', sans-serif;
 }
 
+main{
+    min-height: 100vh;
+    
+}
 .one_page {
   background-image: linear-gradient(135deg, #CE9FFC 10%, #7367F0 100%);
 }
