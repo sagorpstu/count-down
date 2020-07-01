@@ -13,11 +13,11 @@ h6 {
 }
 
 main{
-    min-height: 100vh;
+    min-height: 100vh !important;
     
 }
 .one_page {
-  background-image: linear-gradient(135deg, #CE9FFC 10%, #7367F0 100%);
+  background-image: linear-gradient( 135deg, #43CBFF 10%, #9708CC 100%);
 }
 
 .one_page .main_content h1 {
